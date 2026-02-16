@@ -8,7 +8,7 @@ class Dog extends Animal{
     System.out.println("Dog Barks");
   }
 }
-public class Main{
+public class Polymorphism{
   public static void main(String args[]){
     Animal animal=new Animal();
     animal.bark();
